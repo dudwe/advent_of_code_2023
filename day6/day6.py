@@ -142,3 +142,6 @@ def part_2():
     return r-l+1
 
 print(part_2()) 
+
+#71530 940200   Result 71503
+#34454850
